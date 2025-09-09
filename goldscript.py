@@ -1,3 +1,4 @@
+
 # Marcus Code's GoldScript
 def predict_crypto():
     # SECOND DIGIT: 2
