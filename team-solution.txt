@@ -6,5 +6,5 @@ CHALLENGE 4: 3
 CHALLENGE 5: 8
 CHALLENGE 6: 6
 COORDINATES: 
-DECODED MESSAGE:
+DECODED MESSAGE:The truth is not in the coordinates .The real TruthVault is your ability to work as a team .Congratulations! You’ve learned Git and collaboration!
 COMPLETION TIME:
