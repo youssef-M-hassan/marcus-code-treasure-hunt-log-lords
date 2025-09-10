@@ -1,10 +1,10 @@
 TEAM NAME: [Enter team name]
-CHALLENGE 1: 7-13-5
+CHALLENGE 1: 7-13-5 = 25
 CHALLENGE 2: 2
 CHALLENGE 3: 9
 CHALLENGE 4: 3
 CHALLENGE 5: 8
-CHALLENGE 6: 6
-COORDINATES: 
+CHALLENGE 6: 
+COORDINATES: 252938
 DECODED MESSAGE:The truth is not in the coordinates .The real TruthVault is your ability to work as a team .Congratulations! You’ve learned Git and collaboration!
 COMPLETION TIME:
